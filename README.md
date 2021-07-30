@@ -3,7 +3,7 @@
   <li> 𝑑𝑖𝑠𝑐𝑜𝑢𝑛𝑡 𝑓𝑎𝑐𝑡𝑜𝑟 = 0.9 </li>
   <li> episodes = 700  </li>
   <li> goal reward = +100  </li>
-  <li> hole or wall reward = +100  </li>
+  <li> hole or wall reward = -100  </li>
   <li> others = -1  </li>
   <br>
   
